@@ -10,6 +10,44 @@ site complementar que a agência pediu.
 - Site: https://biel-cosso.github.io/explore-mundo-flutter/
 - Documentação com os prints: [docs/Documentacao-DGT2812.pdf](docs/Documentacao-DGT2812.pdf)
 
+## Prints
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/prints/01-inicio.png" width="200"><br>Início</td>
+    <td align="center"><img src="docs/prints/07-pesquisa.png" width="200"><br>Pesquisa</td>
+    <td align="center"><img src="docs/prints/02-destino.png" width="200"><br>Destino</td>
+    <td align="center"><img src="docs/prints/04-avaliacoes.png" width="200"><br>Avaliações</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/prints/05-reserva.png" width="200"><br>Reserva</td>
+    <td align="center"><img src="docs/prints/06-reserva-confirmada.png" width="200"><br>Reserva solicitada</td>
+    <td align="center"><img src="docs/prints/08-pacotes.png" width="200"><br>Pacotes</td>
+    <td align="center"><img src="docs/prints/09-contato.png" width="200"><br>Contato</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/prints/10-sobre.png" width="200"><br>Sobre nós</td>
+    <td align="center"><img src="docs/prints/11-menu-microatividades.png" width="200"><br>Menu das microatividades</td>
+    <td align="center"><img src="docs/prints/17-tema-escuro.png" width="200"><br>Tema escuro</td>
+    <td align="center"><img src="docs/prints/18-tema-escuro-destino.png" width="200"><br>Destino no tema escuro</td>
+  </tr>
+</table>
+
+Microatividades 2 a 5:
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/prints/12-micro2-materialapp.png" width="200"><br>MaterialApp, Scaffold e AppBar</td>
+    <td align="center"><img src="docs/prints/13-micro3-row-column.png" width="200"><br>Row e Column</td>
+    <td align="center"><img src="docs/prints/14-micro4-listview.png" width="200"><br>ListView</td>
+    <td align="center"><img src="docs/prints/15-micro5-stack.png" width="200"><br>Stack</td>
+  </tr>
+</table>
+
+Site (versão web):
+
+<img src="docs/prints/16-site-web.png" width="820">
+
 ## O que tem no app
 
 - Banner de destaque com fotos dos destinos que trocam sozinhas, tocar na foto abre o destino
